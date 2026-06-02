@@ -5,7 +5,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,50:00FF88,100:00D9FF&text=SAMFUTURETECH&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20•%20Software%20Engineering%20•%20Innovation%20•%20Future%20Technology&descAlignY=60&descAlign=50" />
+  <img src="https://raw.githubusercontent.com/samfuturetech/samfuturetech/main/banner.png" width="100%" alt="SAMFUTURETECH Banner"/>
 </p>
 
 <h1 align="center">
