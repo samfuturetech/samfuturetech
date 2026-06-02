@@ -70,35 +70,32 @@ Status:
 ```
 
 ---
+<h2 align="center">🌌 DIGITAL IDENTITY</h2>
 
-# 🌌 DIGITAL IDENTITY
-
-<table>
+<table align="center">
 <tr>
-<td width="50%">
+<td width="60%">
 
-### 👨‍💻 About Me
+### 👨‍💻 PROFILE OVERVIEW
 
-* 🎓 Diploma Computer Science Engineering Student
-* 🐍 Learning Python Development
-* 🤖 Exploring Artificial Intelligence
-* 🔐 Interested in Cyber Security
-* 🌐 Passionate about Software Development
-* 🚀 Open Source Enthusiast
-* 📚 Continuous Learner
-* 💡 Building future-ready skills
+```yaml
+Name: Sameer Patel
+Username: samfuturetech
+Role: Future Software Engineer
 
-</td>
+Focus Areas:
+  - Artificial Intelligence
+  - Software Engineering
+  - Cyber Security
+  - Open Source
 
-<td width="50%">
+Mission:
+  Build intelligent software
+  that creates real-world impact.
 
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=SAMFUTURETECH&align=center&titleAlign=center&fontSize=20&lineCount=2&theme=github_dark" />
+Current Status:
+  Learning • Building • Innovating
 
-</td>
-</tr>
-</table>
-
----
 
 # ⚙️ TECH ECOSYSTEM
 
@@ -145,57 +142,69 @@ Status:
 </p>
 
 ---
-
-# 📊 GITHUB ANALYTICS CENTER
+<h2 align="center">📊 GITHUB ANALYTICS CENTER</h2>
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=samfuturetech&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=samfuturetech&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samfuturetech&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samfuturetech&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=samfuturetech&theme=tokyonight&hide_border=true"/>
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samfuturetech&theme=github_dark"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=samfuturetech&theme=tokyo-night&hide_border=true"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=samfuturetech&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
----
+<h2 align="center">🎯 CURRENT FOCUS</h2>
 
-# 🛰 VISITOR CENTER
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=samfuturetech&label=PROFILE+VISITORS&color=00ff88&style=for-the-badge"/>
-
-</p>
-
----
-
-# 🎯 CURRENT FOCUS
-
-<table>
+<table align="center">
 <tr>
-<td>
 
-### 🤖 Artificial Intelligence
+<td width="33%">
 
-* AI Fundamentals
-* Machine Learning Concepts
-* AI Applications
-* Intelligent Systems
+### 🤖 AI ENGINEERING
+
+- Machine Learning
+- AI Applications
+- Automation
+- Intelligent Systems
 
 </td>
 
-<td>
+<td width="33%">
+
+### 🔐 CYBER SECURITY
+
+- Linux Security
+- Ethical Hacking
+- Security Research
+- Digital Defense
+
+</td>
+
+<td width="33%">
+
+### 🚀 SOFTWARE ENGINEERING
+
+- Clean Architecture
+- Problem Solving
+- Development Workflow
+- Scalable Systems
+
+</td>
+
+</tr>
+</table>
+
 
 ### 🔐 Cyber Security
 
@@ -549,6 +558,11 @@ Building The Future Through Code, Curiosity & Continuous Learning
 
 ⭐ If you like my journey, consider following my GitHub profile.
 
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,html,css,git,github,linux,vscode,mysql"/>
+
+</p>
 </p>
 
 <!-- END OF README -->
