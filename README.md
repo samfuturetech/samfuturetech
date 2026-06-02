@@ -68,7 +68,6 @@ Brand Identity:
 Status:
   Learning • Building • Growing
 ```
-
 ---
 <h2 align="center">🌌 DIGITAL IDENTITY</h2>
 
@@ -95,7 +94,11 @@ Mission:
 
 Current Status:
   Learning • Building • Innovating
+```
 
+</td>
+</tr>
+</table>
 
 # ⚙️ TECH ECOSYSTEM
 
@@ -181,30 +184,6 @@ Current Status:
 </td>
 
 <td width="33%">
-
-### 🔐 CYBER SECURITY
-
-- Linux Security
-- Ethical Hacking
-- Security Research
-- Digital Defense
-
-</td>
-
-<td width="33%">
-
-### 🚀 SOFTWARE ENGINEERING
-
-- Clean Architecture
-- Problem Solving
-- Development Workflow
-- Scalable Systems
-
-</td>
-
-</tr>
-</table>
-
 
 ### 🔐 Cyber Security
 
