@@ -9,7 +9,7 @@
 </p>
 
 <h1 align="center">
-⚡ SAMEER PATEL ⚡
+  SAMEER PATEL 
 </h1>
 
 <p align="center">
