@@ -1,17 +1,25 @@
 <!-- 
-  PROFESSIONAL GITHUB PROFILE
+  PROFESSIONAL GITHUB PROFILE WITH PREMIUM FONTS
   SAMFUTURETECH | SAMEER PATEL
-  Complete Copy-Paste Ready
 -->
 
+<!-- Premium Font Styling -->
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700;800;900&family=Space+Grotesk:wght@300;400;500;600;700&family=Inter:wght@100;200;300;400;500;600;700;800;900&family=JetBrains+Mono:wght@100;200;300;400;500;600;700;800&display=swap');
+</style>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,100:00FF88&text=SAMFUTURETECH&fontSize=45&fontColor=ffffff&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,100:00FF88&text=SAMFUTURETECH&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35">
 </p>
 
-<h1 align="center">SAMEER PATEL</h1>
+<h1 align="center">
+  <span style="font-family: 'Orbitron', monospace; font-weight: 800; background: linear-gradient(135deg, #00FF88, #00D9FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 3rem;">
+    SAMEER PATEL
+  </span>
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Diploma+Computer+Science+Engineer;Future+Software+Engineer;AI+%26+Cyber+Security+Enthusiast;Open+Source+Contributor;Building+Technology+For+Tomorrow">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=800&height=50&lines=Diploma+Computer+Science+Engineer;Future+Software+Engineer;AI+%26+Cyber+Security+Enthusiast;Open+Source+Contributor;Building+Technology+For+Tomorrow">
 </p>
 
 <p align="center">
@@ -23,31 +31,35 @@
 
 ---
 
-## 🎯 CURRENT FOCUS
+<h2 align="center">
+  <span style="font-family: 'Orbitron', monospace; font-weight: 700; background: linear-gradient(135deg, #00FF88, #00D9FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    🎯 CURRENT FOCUS
+  </span>
+</h2>
 
 <table align="center">
 <tr>
-<td width="33%">
+<td width="33%" align="center" style="font-family: 'Space Grotesk', sans-serif;">
 
-### 🤖 AI ENGINEERING
+### <span style="font-family: 'Orbitron', monospace;">🤖 AI ENGINEERING</span>
 - Machine Learning
 - LLMs & AI Agents
 - Intelligent Automation
 - Python AI Development
 
 </td>
-<td width="33%">
+<td width="33%" align="center" style="font-family: 'Space Grotesk', sans-serif;">
 
-### 🔐 CYBER SECURITY
+### <span style="font-family: 'Orbitron', monospace;">🔐 CYBER SECURITY</span>
 - Network Security
 - Ethical Hacking
 - Linux Security
 - Digital Forensics
 
 </td>
-<td width="33%">
+<td width="33%" align="center" style="font-family: 'Space Grotesk', sans-serif;">
 
-### 💻 SOFTWARE ENGINEERING
+### <span style="font-family: 'Orbitron', monospace;">💻 SOFTWARE ENGINEERING</span>
 - Clean Architecture
 - Data Structures
 - Problem Solving
@@ -59,7 +71,11 @@
 
 ---
 
-## 🛠️ TECH STACK
+<h2 align="center">
+  <span style="font-family: 'Orbitron', monospace; font-weight: 700; background: linear-gradient(135deg, #00FF88, #00D9FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    🛠️ TECH STACK
+  </span>
+</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,html,css,javascript,react,nodejs,mysql,git,github,linux,vscode,figma,aws">
@@ -79,7 +95,11 @@
 
 ---
 
-## 📊 GITHUB ANALYTICS
+<h2 align="center">
+  <span style="font-family: 'Orbitron', monospace; font-weight: 700; background: linear-gradient(135deg, #00FF88, #00D9FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    📊 GITHUB ANALYTICS
+  </span>
+</h2>
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=samfuturetech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=00FF88&title_color=00FF88&text_color=ffffff">
@@ -97,7 +117,11 @@
 
 ---
 
-## 📌 PINNED PROJECTS
+<h2 align="center">
+  <span style="font-family: 'Orbitron', monospace; font-weight: 700; background: linear-gradient(135deg, #00FF88, #00D9FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    📌 PINNED PROJECTS
+  </span>
+</h2>
 
 <p align="center">
   <a href="https://github.com/samfuturetech/ai-chatbot">
@@ -119,7 +143,11 @@
 
 ---
 
-## 🎓 LEARNING ROADMAP
+<h2 align="center">
+  <span style="font-family: 'Orbitron', monospace; font-weight: 700; background: linear-gradient(135deg, #00FF88, #00D9FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    🎓 LEARNING ROADMAP
+  </span>
+</h2>
 
 ```text
 2024 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2026
